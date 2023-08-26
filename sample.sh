@@ -4,5 +4,5 @@ ls ltr
 
 uname
 
-uname -a
+
 
