@@ -5,4 +5,3 @@ ls ltr
 uname
 
 
-
