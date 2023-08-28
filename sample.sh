@@ -1,7 +1,6 @@
 ls
 
 ls ltr
+yum install nignx
 
-uname
-
-
+yum install
