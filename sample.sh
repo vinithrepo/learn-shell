@@ -1,6 +1,2 @@
-ls
-
-ls ltr
-yum install nignx
-
-yum install
+#this is my first command
+echo "Hello World"
